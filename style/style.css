@@ -1,0 +1,64 @@
+/*---------------------- Font sections----------------------- */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+/*---------------------- Genaral sections----------------------- */
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/*---------------------- Banner sections----------------------- */
+.banner-h1 {
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.banner-p {
+    font-size: 16px;
+    font-weight: 300;
+
+}
+
+/*--= Buttons=--*/
+
+.btn-w {
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 7px 25px;
+    margin-bottom: 10px;
+}
+
+.btn-banner-a {
+    text-decoration: none;
+    color: #3F87F5;
+    font-size: 16px;
+    font-weight: 700;
+
+}
+
+/*---------------------- Text-banner sections----------------------- */
+
+.m-sec {
+    margin-bottom: 100px;
+}
+
+.p-a {
+    text-align: center;
+}
+
+.blok-p {
+    display: block;
+}
+
+.margin-d {
+    margin-top: 30px;
+}
+
+.p-colour {
+    color: #6c757d;
+    font-size: 15px;
+    text-align: center;
+}
